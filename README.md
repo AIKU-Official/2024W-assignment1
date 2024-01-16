@@ -1,6 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/PFJ2jOUW)
 # 1. Hello PyTorch, Hello CNN!
-Programming Assignment "1. Hello PyTorch, Hello CNN!" for 2023 Summer DeepIntoDeep
+Programming Assignment "1. Hello PyTorch, Hello CNN!" for 2024 Winter DeepIntoDeep
 
 **Due Date 2024.01.25**
 
